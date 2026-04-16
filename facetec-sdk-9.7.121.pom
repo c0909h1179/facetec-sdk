@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>t4fastid</groupId>
   <artifactId>facetec-sdk</artifactId>
-  <version>9.7.119</version>
+  <version>9.7.121</version>
   <packaging>aar</packaging>
 </project>
